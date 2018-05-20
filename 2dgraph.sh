@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "written by Mohit Gupta"
 echo "enter constant "
 read a
 a="$a"
